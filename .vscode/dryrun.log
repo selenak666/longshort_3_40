@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/jiwonp/engine_deeptrade'
+make: Leaving directory '/home/jiwonp/engine_deeptrade'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
